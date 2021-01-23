@@ -32,13 +32,27 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 * lxappearance
 * urxvt
 * nitrogen
-* Vimix icons
- 
+* zsh
+* pulseaudio
+* compton
+* pavucontrol
+* dunst
+* playerctl
+
+**Window Manager**: [i3](https://i3wm.org/) 
+**Bar**: [Polybar](https://github.com/jaagr/polybar)
+**Terminal**: [URxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)  
+**Theme**: [Flat Remix](https://github.com/daniruiz/Flat-Remix)
+**Icon-Theme**: [Vimix](https://www.opendesktop.org/p/1273372/)
+
+
 # Wallpaper Disco Dingo -> Silvia Ritter
 https://www.deviantart.com/sylviaritter/art/Disco-Dingo-786327017
 
 # Fuentes Utilizadas
 
-* Iosevka Nerd Font
-* Font Awesome
+* [Iosevka Nerd Font](https://aur.archlinux.org/packages/nerd-fonts-iosevka/)
+* [Font Awesome 5](https://fontawesome.com/download)
+
+
 
