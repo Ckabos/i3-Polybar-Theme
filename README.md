@@ -4,6 +4,7 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 ![](./Screenshot1.png)
 ![](./Screenshot2.png)
 ![](./Screenshot3.png)
+* [rofi-menu](https://github.com/adi1090x/rofi)
 ![](./Screenshot4.png)
 ![](./Screenshot5.png)
 
@@ -31,7 +32,6 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 * gnome-screenshot
 * [lxappearance](http://www.linuxfromscratch.org/blfs/view/svn/lxde/lxappearance.html)
 * urxvt
-* pactl
 * acpilight
 * nitrogen
 * zsh
@@ -41,7 +41,6 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 * dunst
 * playerctl
 * [rofi-bluetooth](https://aur.archlinux.org/packages/rofi-bluetooth-git/)
-* [rofi-menu](https://github.com/adi1090x/rofi)
 
 **Window Manager**: [i3](https://i3wm.org/)
 **Bar**: [Polybar](https://github.com/jaagr/polybar)
