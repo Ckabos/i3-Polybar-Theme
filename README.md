@@ -29,8 +29,10 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 # Instalacion
 
 * gnome-screenshot
-* lxappearance
+* [lxappearance](http://www.linuxfromscratch.org/blfs/view/svn/lxde/lxappearance.html)
 * urxvt
+* pactl
+* acpilight
 * nitrogen
 * zsh
 * pulseaudio
@@ -38,10 +40,12 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 * pavucontrol
 * dunst
 * playerctl
+* [rofi-bluetooth](https://aur.archlinux.org/packages/rofi-bluetooth-git/)
+* [rofi-menu](https://github.com/adi1090x/rofi)
 
-**Window Manager**: [i3](https://i3wm.org/) 
+**Window Manager**: [i3](https://i3wm.org/)
 **Bar**: [Polybar](https://github.com/jaagr/polybar)
-**Terminal**: [URxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)  
+**Terminal**: [URxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 **Theme**: [Flat Remix](https://github.com/daniruiz/Flat-Remix)
 **Icon-Theme**: [Vimix](https://www.opendesktop.org/p/1273372/)
 
