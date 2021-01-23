@@ -166,39 +166,11 @@ format-foreground = ${colors.primary}
 label = %title%
 label-maxlen = 60
 
-[module/xkeyboard]
-type = internal/xkeyboard
-blacklist-0 = num lock
-
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-prefix-underline = ${colors.secondary}
-
-label-layout = %layout%
-label-layout-underline = ${colors.secondary}
-
-label-indicator-padding = 2
-label-indicator-margin = 1
-label-indicator-background = ${colors.secondary}
-label-indicator-underline = ${colors.secondary}
-
-[module/filesystem]
-type = internal/fs
-interval = 25
-
-mount-0 = /
-
-label-mounted =  HD %mountpoint% %percentage_used%% of %total%
-label-mounted-foreground = ${colors.primary}
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.primary}
-
 [module/i3]
 type = internal/i3
 format = <label-state> <label-mode>
 index-sort = false
 wrapping-scroll = false
-
 
 ws-icon-0 = 1;
 ws-icon-1 = 2;
