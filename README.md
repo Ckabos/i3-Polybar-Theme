@@ -4,6 +4,9 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 ![](./Screenshot1.png)
 ![](./Screenshot2.png)
 ![](./Screenshot3.png)
+
+# Rofi menu
+
 * [rofi-menu](https://github.com/adi1090x/rofi)
 ![](./Screenshot4.png)
 ![](./Screenshot5.png)
@@ -33,7 +36,7 @@ Algunos comandos o atajos dentro del Window Manager pueden variar, ya que los at
 * [lxappearance](http://www.linuxfromscratch.org/blfs/view/svn/lxde/lxappearance.html)
 * urxvt
 * acpilight
-* nitrogen
+* [nitrogen](https://nitrogenproject.com/)
 * zsh
 * pulseaudio
 * compton
